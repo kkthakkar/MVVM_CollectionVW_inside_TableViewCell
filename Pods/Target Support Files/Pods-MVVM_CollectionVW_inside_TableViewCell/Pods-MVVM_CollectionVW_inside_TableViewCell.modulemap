@@ -1,0 +1,6 @@
+framework module Pods_MVVM_CollectionVW_inside_TableViewCell {
+  umbrella header "Pods-MVVM_CollectionVW_inside_TableViewCell-umbrella.h"
+
+  export *
+  module * { export * }
+}
